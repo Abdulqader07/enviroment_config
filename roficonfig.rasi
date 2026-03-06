@@ -1,0 +1,11 @@
+//@theme "slate"
+
+//@theme "/usr/share/rofi/themes/purple.rasi"
+
+@theme "/usr/share/rofi/themes/android_notification.rasi"
+
+configuration{
+	font:"FiraCode Nerd Font 14";
+}
+
+//@theme "/usr/share/rofi/themes/android_notification.rasi"

@@ -1,0 +1,15 @@
+[window]
+
+opacity = 0.95
+padding = { x = 5, y = 5 }
+
+[font]
+
+size = 18
+normal = { family = 'FiraCodeNerdFont', style = 'Regular' }
+
+[colors]
+[colors.primary]
+
+background =  '#2e3440'
+foreground = '#d8dee9'

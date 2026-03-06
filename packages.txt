@@ -1,0 +1,31 @@
+i3
+xorg
+i3locks
+firefox-esr
+rofi
+picom
+vlc
+git
+wget
+curl
+alacritty
+firacode-nerd-font
+jetbrains-mono-font
+keepassxc
+feh
+thunar thunar-archive-plugin thunar-volman tumbler
+zip
+network-manager
+pulseaudio
+brightnessctl
+doas
+distrobox
+vim
+clipit
+fastfetch
+lxapperance
+arc-themes
+zathura #pdf reader
+steam-installer
+simplescreenrecord
+kdenlive
